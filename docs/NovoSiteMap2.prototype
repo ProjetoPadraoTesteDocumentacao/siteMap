@@ -1,0 +1,561 @@
+<mxGraphModel dx="2295" dy="2607" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="103" value="Fundo" style="locked=1;" parent="0"/>
+    <mxCell id="116" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="103" vertex="1">
+      <mxGeometry x="-446" y="-1647" width="217" height="147" as="geometry"/>
+    </mxCell>
+    <mxCell id="117" value="&lt;h1&gt;Atenção&lt;/h1&gt;&lt;p&gt;Alguns blocos possuem tooltips exibindo de forma mais detalha o seu conteúdo.&lt;/p&gt;&lt;p&gt;Para alterar o tooltip, selecione o bloco e aperte &lt;b&gt;Ctrl + Alt + T&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="103" vertex="1">
+      <mxGeometry x="-432" y="-1645" width="193" height="138" as="geometry"/>
+    </mxCell>
+    <mxCell id="1" value="siteMap" style="" parent="0"/>
+    <mxCell id="62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="34" target="61" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint x="-715" y="-1480"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=0;" parent="1" source="34" target="171" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint x="720" y="-1480"/>
+        </Array>
+        <mxPoint x="730" y="-1440" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="34" target="207">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint x="-305" y="-1480"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="34" target="151">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="34" target="139">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint x="295" y="-1480"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="docs.cronapp.io" id="34">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=0;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-60" y="-1547.5" width="120" height="47" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Contato CronApp" tooltip="Contatos:&#xa; - Comercial;&#xa; - Suporte;&#xa; - Treinamento (vídeo);&#xa; - Webinars;&#xa; - Docs / Tutoriais;&#xa; - Fórum;&#xa; - Consultoria;&#xa; - Portal;" id="151">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=32;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-60" y="-1440" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Iniciando no CronApp&lt;br&gt;Get Started&lt;br&gt;" id="61">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-780" y="-1440" width="130" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="139" target="144" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="260" y="-1360"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="139" target="147" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="260" y="-1300"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="139" target="149" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="260" y="-1240"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Referências das APIs" id="139">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="240" y="-1440" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Componentes Visuais" id="149">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="280" y="-1260" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Mobile" id="147">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="280" y="-1320" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="CronAPI" id="144">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="280" y="-1380" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="1" source="68" target="76" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-720" y="-1220"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="1" source="68" target="86" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-720" y="-980"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="68" target="94" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-720" y="-740"/>
+        </Array>
+        <mxPoint x="-720" y="-1360" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=#0F0F0F;jettySize=auto;orthogonalLoop=1;fontColor=#0F0F0F;" parent="1" source="68" target="101" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-720" y="-560"/>
+        </Array>
+        <mxPoint x="-720" y="-1360" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Criar Novo Projeto" tooltip="*Criar Novo Projeto*&#xa;- Diferenciar Mobile e Web;&#xa;- Projeto vem sobre controle de versão?&#xa;- Copiar do Modelo;&#xa;- Conexões com outros Banco de dados;&#xa;- Tipos de Autenticação;&#xa;- Modelo pronto (Somente em WEB)" id="68">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-740" y="-1300" width="120" height="37" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Executar Aplicação" tooltip="*Executar Aplicação*&#xa;Web;&#xa;Mobile (simulador, web, CronApp app e Apk)" id="101">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-700" y="-580" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="94" target="97" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-680" y="-680"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="94" target="99" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-680" y="-620"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Bloco de Programação" tooltip="*Bloco de Programação*&#xa;- O que é o bloco de programação;&#xa;- Como criar um bloco de programação;&#xa;- Diferença entre os blocos cliente, servidor e mobile (diferença dos blocos que possui a mais em cada &quot;ambiente&quot;);&#xa;- Página do Blockly:&#xa; - Propriedade do Blockly;&#xa; - Como adicionar parâmetros;&#xa; - Como criar novas funções;&#xa; - Funções com e sem retorno;&#xa; - Criar nova variáveis;&#xa; - Configurações de um bloco;&#xa; - Adicionar comentário;&#xa;- Programação visual / visualizar código" id="94">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-699" y="-762" width="120" height="43" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Estrutura do Blockly" id="99">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-660" y="-640" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Criar Bloco de Programação" id="97">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-660" y="-700" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="1" source="86" target="88" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-680" y="-920"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="1" source="86" target="90" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-680" y="-860"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Formulário" tooltip="*Formulário*&#xa;- Diferenciar Mobile e Web;" id="86">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-700" y="-1000" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="1" source="90" target="92" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-640" y="-800"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Estrutura da View" tooltip="*Estrutura da View*&#xa;Informações da página:&#xa;- Redimensionamento da tela;&#xa;- Adicionar e selecionar Modal;&#xa;- Seleção de componentes na tela;&#xa;- Abas (Controles, Propriedades, Eventos, Responsividade, Estilos);&#xa;- Adicionar Antes;&#xa;- Estrutura HTML (inferior);&#xa;- Visualização e código fonte." id="90">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-660" y="-880" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Estrutura dos componentes visuais" tooltip="*Estrutura dos componentes visuais*&#xa;- O que é um componente visual;&#xa;- Diferenciar componentes Visuais Web e mobile" id="92">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-620" y="-820" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Criar Novo Formulário" id="88">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-660" y="-940" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="76" target="78" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-678" y="-1158"/>
+        </Array>
+        <mxPoint x="-680" y="-1240" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Diagrama / Banco / Gerar CRUD" tooltip="*Diagrama / Banco / Gerar CRUD*&#xa;Visão geral da janela do Diagrama" id="76">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-700" y="-1240" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="78" target="80" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-640" y="-1101"/>
+        </Array>
+        <mxPoint x="-640" y="-1140" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="78" target="82" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-640" y="-1040"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Diagrama" tooltip="*Diagrama*&#xa;- Criação de classe&#xa;- Edição de classes&#xa;- Eng. reversa&#xa;- organizar classe&#xa;- Bloqueio diagrama&#xa;- Relacionamento entre classes&#xa;- Visões&#xa;- Alterar entre bancos&#xa;- Propriedades e eventos" id="78">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-660" y="-1177" width="120" height="37" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Gerar CRUD" id="82">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-620" y="-1060" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Gerar Persistência" id="80">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-620" y="-1120" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="61" target="68" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="-760" y="-1360" as="sourcePoint"/>
+        <mxPoint x="-750" y="-1298.5" as="targetPoint"/>
+        <Array as="points">
+          <mxPoint x="-760" y="-1282"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" edge="1" parent="1" source="207" target="253">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-340" y="-1360"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="207" target="256">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-340" y="-1300"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="207" target="260">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-340" y="-1240"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Tutoriais" id="207">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
+        <mxGeometry x="-360" y="-1440" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Blocos de programação" id="260">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" vertex="1" parent="1">
+        <mxGeometry x="-320" y="-1260" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Dispositivos móveis&lt;br&gt;" id="256">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" vertex="1" parent="1">
+        <mxGeometry x="-320" y="-1320" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Login por redes sociais" id="253">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" vertex="1" parent="1">
+        <mxGeometry x="-320" y="-1380" width="110" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="168" value="SiteMaps2" style="" parent="0"/>
+    <mxCell id="181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" source="171" target="180" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="680" y="-1340"/>
+        </Array>
+        <mxPoint x="740" y="-1340" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" target="210" edge="1" source="171">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="680" y="-980"/>
+        </Array>
+        <mxPoint x="680" y="-1440" as="sourcePoint"/>
+        <mxPoint x="720" y="-980" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" target="191" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="680" y="-680"/>
+        </Array>
+        <mxPoint x="680" y="-1340" as="sourcePoint"/>
+        <mxPoint x="700" y="-820" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="199" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="680" y="-1160"/>
+        </Array>
+        <mxPoint x="680.3333333333335" y="-1500" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="201" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="680" y="-1340" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="680" y="-560"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="203" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="680" y="-1340" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="680" y="-500"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="205" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="680" y="-1100"/>
+        </Array>
+        <mxPoint x="680.3333333333335" y="-1500" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="IDE CronApp&lt;br&gt;" tooltip="*IDE CronApp*&#xa;" id="171">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="660" y="-1440" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Bibliotecas e Gluonsoft&lt;br&gt;" tooltip="*Bibliotecas e Gluonsoft*&#xa; - Maven;&#xa; - Gluonsoft; " id="205">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1120" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Teste&lt;br&gt;" tooltip="*Teste*&#xa; - Teste automatizados (JUnit);&#xa;&#xa;*necessário esse ponto ou adicionar dentro de Front e Back End??" id="203">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-520" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Executar Aplicação&lt;br&gt;" tooltip="*Executar Aplicação (web mobile)*&#xa; - Compilar&#xa; - Debugar;" id="201">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-580" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Prototipação e Diagramação&lt;br&gt;" tooltip="*Prototipação e documentação*&#xa; - Prototipação;&#xa; - Diagrama;" id="199">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1180" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0.175;exitY=1.075;exitPerimeter=0;" parent="168" target="195" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="681" y="-1337" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="681" y="-620"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="197" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="680" y="-1340" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="680" y="-440"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Desenvolvimento Colaborativo&lt;br&gt;" tooltip="*Desenvolvimento Colaborativo*&#xa; - Gerenciador de Backups;&#xa; - Integração Git/SVN;&#xa; - chat;" id="195">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-640" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Produção&lt;br&gt;" tooltip="*Produção*&#xa; - Deploy&#xa; - Monitoramento;&#xa; - Exportar projeto;" id="197">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-460" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Relatório&lt;br&gt;" tooltip="*Relatório*" id="191">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-700" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0.186;exitY=1.012;exitPerimeter=0;" parent="168" target="184" edge="1" source="171">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="680" y="-1500" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="680" y="-1400"/>
+          <mxPoint x="680" y="-1280"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="186" edge="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="681" y="-1220"/>
+        </Array>
+        <mxPoint x="681.6666666666665" y="-1500" as="sourcePoint"/>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Suporte&lt;br&gt;" tooltip="*Suporte*&#xa; - Assistênte de Ajuda, Suporte online;&#xa; - CronBit e CronUnit;" id="184">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1300" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="188" edge="1" source="171">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="680" y="-1440" as="sourcePoint"/>
+        <Array as="points">
+          <mxPoint x="680" y="-1040"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Novo Projeto&lt;br&gt;" tooltip="*Novo Projeto*&#xa; - Criação de novo Projeto&#xa; - importação de projeto" id="186">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1240" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Persistência&lt;br&gt;" tooltip="*Persistência*&#xa; - Banco de dados;" id="188">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1061" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="210" target="215">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="720" y="-920"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="210" target="217">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="720" y="-860"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Desenvolvimento&lt;br&gt;Web e Mobile&lt;br&gt;" tooltip="*Desenvolvimento*" id="210">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="700" y="-1000" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="217" target="219">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="760" y="-800"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="217" target="222">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="760" y="-740"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Programação&lt;br&gt;" tooltip="*Programação*&#xa; - Diferenciar Mobile web e server;&#xa; - Documentação JavaDocs" id="217">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="740" y="-880" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="High code&lt;br&gt;" tooltip="*High code*" id="222">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="780" y="-760" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Low code&lt;br&gt;" tooltip="*Low code*" id="219">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="780" y="-820" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="View&lt;br&gt;" tooltip="*View (Mobile e web)*&#xa; - Internacionalização;&#xa; - Redimensionamento da tela;&#xa; - Adicionar e selecionar Modal;&#xa; - Seleção de componentes na tela;&#xa; - Abas (Controles, Propriedades, Eventos, Responsividade, Estilos);&#xa; - Adicionar Antes;&#xa; - Estrutura HTML (inferior);&#xa; - Vizualização e código fonte." id="215">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="740" y="-940" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="Tour pela IDE (Completa)&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="180">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
+        <mxGeometry x="700" y="-1360" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" source="235" target="234" parent="168">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-1100" y="-1360"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Visão Geral do CronApp&lt;br&gt;" tooltip="*Visão Geral do CronApp*&#xa;&#xa;Tecnologias usadas e linguagens suportadas (Git, Blockly, ...);&#xa;Web e mobile;&#xa;Principais funcionalidades:&#xa; - Assistênte de Ajuda;&#xa; - Prototipação;&#xa; - Diagrama;&#xa; - Persistência;&#xa; - Views;&#xa; - Importação de bibliotecas;&#xa; - Bloco de Programação;&#xa; - Low e High Code;&#xa; - Debug;&#xa; - Gerador de Relatório;&#xa; - Documentação;&#xa; - Terminal;&#xa; - Internacionalização;&#xa; - Gerenciador de Backups;&#xa; - Controle de versão;&#xa; - Teste automatizados;&#xa; - Deploy e monitoramento;&#xa; - Criação e consumo de serviços web;&#xa; - Gluonsoft;&#xa; - Atualizações constantes;&#xa; - Suporte online e chat;" id="234">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="-1080" y="-1380" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <UserObject label="O que é o CronApp" tooltip="*O que é o CronApp*&#xa;- Histórico;&#xa;- Techne;&#xa;" id="235">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="-1120" y="-1440" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="34" target="235">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint x="-1060" y="-1480"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <UserObject label="Tour pela IDE (Resumido)&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="249">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+        <mxGeometry x="-740" y="-1370" width="120" height="40" as="geometry"/>
+      </mxCell>
+    </UserObject>
+    <mxCell id="250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="168" source="61" target="249">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="-760" y="-1350"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="263" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.pageControl;fillColor=#999999;strokeColor=#ddeeff;fontColor=#F0F0F0;rotation=90;" vertex="1" parent="168">
+      <mxGeometry x="-340" y="-1160" width="100" height="30" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
