@@ -1,4 +1,4 @@
-<mxGraphModel dx="2138" dy="2573" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
+<mxGraphModel dx="2739" dy="2829" grid="0" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
   <root>
     <mxCell id="0"/>
     <mxCell id="103" value="Fundo" style="locked=1;" parent="0"/>
@@ -516,7 +516,7 @@
         <mxGeometry x="20" y="-940" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <UserObject label="Tour pela IDE (Completa)&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="180">
+    <UserObject label="Tour completo pela IDE&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="180">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
         <mxGeometry x="-20" y="-1360" width="120" height="40" as="geometry"/>
       </mxCell>
@@ -547,7 +547,7 @@
         <mxPoint x="128" y="-1500" as="sourcePoint"/>
       </mxGeometry>
     </mxCell>
-    <UserObject label="Tour pela IDE (Resumido)&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="249">
+    <UserObject label="Tour Resumido&lt;br&gt;pela IDE&lt;br&gt;" tooltip="*Tour da IDE*&#xa; - Menu do sistema;&#xa; - Menu de acesso;&#xa; - Árvore de arquivos;&#xa; - Console, erros, expressões, Breakpoints;&#xa; - abas e menu das abas&#xa; - " id="249">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
         <mxGeometry x="-660" y="-1369.5" width="120" height="40" as="geometry"/>
       </mxCell>

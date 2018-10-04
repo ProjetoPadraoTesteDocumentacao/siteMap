@@ -1,61 +1,92 @@
 <script type="text/javascript">
-        startList = function() {
+    startList = function() {
         if (document.all&&document.getElementById) {
-        navRoot = document.getElementById("menuDropDown");
-        for (i=0; i<navRoot.childNodes.length; i++) {
-        node = navRoot.childNodes[i];
-        if (node.nodeName=="LI") {
-        node.onmouseover=function() {
-        this.className+=" over";
-          }
-          node.onmouseout=function() {
-          this.className=this.className.replace
-            (" over", "");
-           }
-           }
-          }
-         }
+            navRoot = document.getElementById("menuDropDown");
+            for (i=0; i<navRoot.childNodes.length; i++) {
+                node = navRoot.childNodes[i];
+                if (node.nodeName=="li") {
+                    node.onmouseover=function() {
+                        this.className+=" over";
+                    }
+                    node.onmouseout=function() {
+                        this.className=this.className.replace(" over", "");
+                    }
+                }
+            }
         }
-        window.onload=startList;
+    }
+    window.onload=startList;
 </script> 
-<center>
-<ul id="nav"> 
-  <li><a href="">O que é CronApp</a> 
-    <ul> 
-      <li><a href="">Visão Geral do CronApp</a>
-      </li> 
-    </ul> </li> 
-  <li><a href="">Iniciando no CronApp Get Started</a></li> 
-  <li><a href="">Tutoriais</a> 
-    <ul> 
-      <li><a href="">xxx</a></li>
-    </ul> </li> 
-  <li><a href="">Referência da IDE</a>
-  <ul>
-      <li><a href="">Tour pela IDE (Completa)</a></li>
-      <li><a href="">Suporte</a></li>
-      <li><a href="">Projetos</a></li>
-      <li><a href="">Prototipação e Diagramação</a></li>
-      <li><a href="">Bibliotecas e Gluonsoft</a></li>
-      <li><a href="">Persistência</a></li>
-      <li><a href="">Desenvolvimento WEB e Mobile</a>
-            <ul>
-                <li><a href="">teste</a></li>
-            </ul>
-        </li>
-      <li><a href="">Relatório</a></li>
-      <li><a href="">Desenvolvimento Colaborativo</a></li>
-      <li><a href="">Executar Aplicação</a></li>
-      <li><a href="">Teste</a></li>
-      <li><a href="">Produção</a></li>
-  </ul>
-  </li>
-  <li><a href="">Referência das API's</a>
-  <ul> 
-      <li><a href="">CronAPI</a></li>
-      <li><a href="">Mobile</a></li>
-      <li><a href="">Componentes Visuais</a></li>
-    </ul></li> 
-  <li><a href="">Contato CronApp</a></li> 
-</ul>
+<center> 
+  <ul id="nav"> 
+    <li><a href="">O que é CronApp</a> 
+      <ul> 
+        <li><a href="">Visão Geral do CronApp</a> </li> 
+      </ul> </li> 
+    <li><a href="">Iniciando no CronApp Get Started</a> 
+      <ul> 
+        <li><a href="">Tour Resumido pela IDE</a></li> 
+        <li><a href="">Criar Novo Projeto</a> 
+          <ul> 
+            <li><a href="">Diagrama / Banco / Gerar CRUD</a> 
+              <ul> 
+                <li><a href="">Gerar Persistência</a> </li> 
+                <li><a href="">Gerar CRUD</a> </li> 
+              </ul> </li> 
+          </ul> </li> 
+        <li><a href="">Formulário</a> 
+          <ul> 
+            <li><a href="">Criar Novo Formulário</a></li> 
+            <li><a href="">Estrutura da View</a> 
+              <ul> 
+                <li><a href="">Estrutura dos componentes visuais</a> </li> 
+              </ul> </li> 
+          </ul> </li> 
+        <li><a href="">Bloco de Programação</a> 
+          <ul> 
+            <li><a href="">Criar Bloco de Programação</a></li> 
+            <li><a href="">Estrutura do Blockly</a></li> 
+          </ul> </li> 
+        <li><a href="">Executar Aplicação</a></li> 
+      </ul> </li> 
+    <li><a href="">Tutoriais</a> 
+      <ul> 
+        <li><a href="">Login por redes sociais</a></li> 
+        <li><a href="">Dispositivos móveis</a></li> 
+        <li><a href="">Blocos de programação</a></li> 
+        <li><a href="">...</a></li> 
+      </ul> 
+    </li> 
+    <li><a href="">Referência da IDE</a> 
+      <ul> 
+        <li><a href="">Tour completo pela IDE</a></li> 
+        <li><a href="">Suporte</a></li> 
+        <li><a href="">Projetos</a></li> 
+        <li><a href="">Prototipação e Diagramação</a></li> 
+        <li><a href="">Bibliotecas e Gluonsoft</a></li> 
+        <li><a href="">Persistência</a></li> 
+        <li><a href="">Desenvolvimento WEB e Mobile</a> 
+          <ul> 
+            <li><a href="">View</a></li> 
+            <li><a href="">Programação</a> 
+              <ul> 
+                <li><a href="">Low code</a></li> 
+                <li><a href="">High code</a></li> 
+              </ul> </li> 
+          </ul> 
+        </li> 
+        <li><a href="">Relatório</a></li> 
+        <li><a href="">Desenvolvimento Colaborativo</a></li> 
+        <li><a href="">Executar Aplicação</a></li> 
+        <li><a href="">Teste</a></li> 
+        <li><a href="">Produção</a></li> 
+      </ul> </li> 
+    <li><a href="">Referência das API's</a> 
+      <ul> 
+        <li><a href="">CronAPI</a></li> 
+        <li><a href="">Mobile</a></li> 
+        <li><a href="">Componentes Visuais</a></li> 
+      </ul></li> 
+    <li><a href="">Contato CronApp</a></li> 
+  </ul> 
 </center>
