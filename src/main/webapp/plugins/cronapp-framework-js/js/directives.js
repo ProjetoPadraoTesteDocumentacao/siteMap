@@ -1256,6 +1256,10 @@
             function editor(container, opt) {
 
               var column = getColumnByField(opt.field);
+              if (column.visibleCrud != undefined && !column.visibleCrud) {
+                container.parent().find('.k-edit-label [for='+ column.field +']').parent().remove();
+                container.remove();
+              }
               var required = isRequired(opt.field) ? "required" : "";
               var buttonId = app.common.generateId();
               var $input = $('<input '+required+' name="' + opt.field + '" id="' + buttonId + '"from-grid=true />');
@@ -1786,6 +1790,14 @@
                             $templateDyn.find('.k-pager-refresh.k-link').show();
                             $templateDyn.find('.saveorcancelchanges').hide();
                           }
+                        }
+                      }
+                  );
+				  
+				  scope[options.dataSourceScreen.entityDataSource.name].addDataSourceEvents(
+                      {
+                        "afterchanges": function(value) {
+                          grid.dataSource.filter([]);
                         }
                       }
                   );
