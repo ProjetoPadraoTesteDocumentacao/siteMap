@@ -1,4 +1,4 @@
-<mxGraphModel dx="2706" dy="2711" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
+<mxGraphModel dx="2650" dy="2765" grid="0" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
   <root>
     <mxCell id="0"/>
     <mxCell id="103" value="Fundo" style="locked=1;" parent="0"/>
@@ -9,6 +9,11 @@
       <mxGeometry x="-432" y="-1645" width="193" height="138" as="geometry"/>
     </mxCell>
     <mxCell id="1" value="siteMap" style="" parent="0"/>
+    <mxCell id="271" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Sphinx&lt;/font&gt;&lt;br&gt;" style="swimlane;html=1;horizontal=0;swimlaneFillColor=none;swimlaneLine=0;rotation=90;startSize=33;strokeColor=#FFFFFF;" parent="1" vertex="1">
+      <mxGeometry x="146" y="-1457" width="329" height="183" as="geometry">
+        <mxRectangle x="351.5" y="-1536.5" width="40" height="60" as="alternateBounds"/>
+      </mxGeometry>
+    </mxCell>
     <mxCell id="62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0.5;exitY=1;" parent="1" source="34" target="61" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
@@ -39,6 +44,10 @@
     <mxCell id="228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=0;" parent="1" source="34" target="171" edge="1">
       <mxGeometry relative="1" as="geometry">
         <mxPoint y="-1454" as="targetPoint"/>
+        <Array as="points">
+          <mxPoint y="-1480"/>
+          <mxPoint y="-1480"/>
+        </Array>
       </mxGeometry>
     </mxCell>
     <mxCell id="229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="34" target="139" edge="1">
@@ -49,17 +58,17 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <UserObject label="docs.cronapp.io" id="34">
+    <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;docs.cronapp.io&lt;/font&gt;" id="34">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=0;fontColor=#0F0F0F;" parent="1" vertex="1">
-        <mxGeometry x="-60" y="-1547.5" width="120" height="47" as="geometry"/>
+        <mxGeometry x="-100" y="-1560" width="220" height="60" as="geometry"/>
       </mxCell>
     </UserObject>
-    <UserObject label="Contato CronApp" tooltip="Contatos:&#xa; - Comercial;&#xa; - Suporte;&#xa; - Treinamento (vídeo);&#xa; - Webinars;&#xa; - Docs / Tutoriais;&#xa; - Fórum;&#xa; - Consultoria;&#xa; - Portal;" id="151">
+    <UserObject label="Contato CronApp&lt;br&gt;(CC)&lt;br&gt;" tooltip="Contatos:&#xa; - Comercial;&#xa; - Suporte;&#xa; - Treinamento (vídeo);&#xa; - Webinars;&#xa; - Docs / Tutoriais;&#xa; - Fórum;&#xa; - Consultoria;&#xa; - Portal;" id="151">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=32;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="500" y="-1439.5" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <UserObject label="Iniciando no CronApp&lt;br&gt;Get Started&lt;br&gt;" id="61">
+    <UserObject label="Iniciando no CronApp&lt;br&gt;Get Started (GS)&lt;br&gt;" id="61">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="-700" y="-1439.5" width="130" height="40" as="geometry"/>
       </mxCell>
@@ -85,7 +94,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <UserObject label="Referências das APIs" id="139">
+    <UserObject label="Referências das APIs (RA)" id="139">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="240" y="-1440" width="110" height="40" as="geometry"/>
       </mxCell>
@@ -223,7 +232,7 @@
         <mxPoint x="-600" y="-1239.5" as="sourcePoint"/>
       </mxGeometry>
     </mxCell>
-    <UserObject label="Diagrama / Banco / Gerar CRUD" tooltip="*Diagrama / Banco / Gerar CRUD*&#xa;Visão geral da janela do Diagrama" id="76">
+    <UserObject label="Diagrama / Banco / CRUD" tooltip="*Diagrama / Banco / Gerar CRUD*&#xa;Visão geral da janela do Diagrama" id="76">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="-620" y="-1239.5" width="120" height="40" as="geometry"/>
       </mxCell>
@@ -288,7 +297,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <UserObject label="Tutoriais" id="207">
+    <UserObject label="Tutoriais&lt;br&gt;(TT)&lt;br&gt;" id="207">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="-360" y="-1440" width="110" height="40" as="geometry"/>
       </mxCell>
@@ -309,11 +318,11 @@
       </mxCell>
     </UserObject>
     <UserObject label="Visão Geral do CronApp&lt;br&gt;" tooltip="*Visão Geral do CronApp*&#xa;&#xa;Tecnologias usadas e linguagens suportadas (Git, Blockly, ...);&#xa;Web e mobile;&#xa;Principais funcionalidades:&#xa; - Assistênte de Ajuda;&#xa; - Prototipação;&#xa; - Diagrama;&#xa; - Persistência;&#xa; - Views;&#xa; - Importação de bibliotecas;&#xa; - Bloco de Programação;&#xa; - Low e High Code;&#xa; - Debug;&#xa; - Gerador de Relatório;&#xa; - Documentação;&#xa; - Terminal;&#xa; - Internacionalização;&#xa; - Gerenciador de Backups;&#xa; - Controle de versão;&#xa; - Teste automatizados;&#xa; - Deploy e monitoramento;&#xa; - Criação e consumo de serviços web;&#xa; - Gluonsoft;&#xa; - Atualizações constantes;&#xa; - Suporte online e chat;" id="264">
-      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="1">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="1" vertex="1">
         <mxGeometry x="-942" y="-1369.5" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <mxCell id="266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="235" target="264">
+    <mxCell id="266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" parent="1" source="235" target="264" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
           <mxPoint x="-962" y="-1349"/>
@@ -338,7 +347,7 @@
         <mxPoint y="-920.5" as="targetPoint"/>
       </mxGeometry>
     </mxCell>
-    <mxCell id="194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" target="191" edge="1" source="171">
+    <mxCell id="194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" source="171" target="191" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
           <mxPoint x="-40" y="-620"/>
@@ -355,7 +364,7 @@
         <mxPoint x="-39.666666666666515" y="-1500" as="sourcePoint"/>
       </mxGeometry>
     </mxCell>
-    <mxCell id="202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="201" edge="1" source="171">
+    <mxCell id="202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="201" edge="1">
       <mxGeometry relative="1" as="geometry">
         <mxPoint x="-40" y="-1280.5" as="sourcePoint"/>
         <Array as="points">
@@ -363,7 +372,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="203" edge="1" source="171">
+    <mxCell id="204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="203" edge="1">
       <mxGeometry relative="1" as="geometry">
         <mxPoint x="-40" y="-1280.5" as="sourcePoint"/>
         <Array as="points">
@@ -379,12 +388,12 @@
         <mxPoint x="-39.666666666666515" y="-1500" as="sourcePoint"/>
       </mxGeometry>
     </mxCell>
-    <UserObject label="Referência da IDE&lt;br&gt;" tooltip="*IDE CronApp*&#xa;" id="171">
+    <UserObject label="Referência da IDE&lt;br&gt;(RI)&lt;br&gt;" tooltip="*IDE CronApp*&#xa;" id="171">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
         <mxGeometry x="-60" y="-1440" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <mxCell id="270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" edge="1" parent="168" source="205" target="269">
+    <mxCell id="270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;" parent="168" source="205" target="269" edge="1">
       <mxGeometry relative="1" as="geometry">
         <Array as="points">
           <mxPoint y="-1039"/>
@@ -397,7 +406,7 @@
       </mxCell>
     </UserObject>
     <UserObject label="MarketPlace&lt;br&gt;" tooltip="*Bibliotecas e Gluonsoft*&#xa; - Maven;&#xa; - Gluonsoft; " id="269">
-      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" vertex="1" parent="168">
+      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
         <mxGeometry x="20" y="-1059.5" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
@@ -416,7 +425,7 @@
         <mxGeometry x="-20" y="-1180" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <mxCell id="196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="195" edge="1" source="171">
+    <mxCell id="196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="195" edge="1">
       <mxGeometry relative="1" as="geometry">
         <mxPoint x="-39" y="-1277.5" as="sourcePoint"/>
         <Array as="points">
@@ -424,7 +433,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" target="197" edge="1" source="171">
+    <mxCell id="198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="168" source="171" target="197" edge="1">
       <mxGeometry relative="1" as="geometry">
         <mxPoint x="-40" y="-1280.5" as="sourcePoint"/>
         <Array as="points">
@@ -545,12 +554,7 @@
         <mxGeometry x="-20" y="-1360" width="120" height="40" as="geometry"/>
       </mxCell>
     </UserObject>
-    <UserObject label="Marketplace&lt;br&gt;" tooltip="*Visão Geral do CronApp*&#xa;&#xa;Tecnologias usadas e linguagens suportadas (Git, Blockly, ...);&#xa;Web e mobile;&#xa;Principais funcionalidades:&#xa; - Assistênte de Ajuda;&#xa; - Prototipação;&#xa; - Diagrama;&#xa; - Persistência;&#xa; - Views;&#xa; - Importação de bibliotecas;&#xa; - Bloco de Programação;&#xa; - Low e High Code;&#xa; - Debug;&#xa; - Gerador de Relatório;&#xa; - Documentação;&#xa; - Terminal;&#xa; - Internacionalização;&#xa; - Gerenciador de Backups;&#xa; - Controle de versão;&#xa; - Teste automatizados;&#xa; - Deploy e monitoramento;&#xa; - Criação e consumo de serviços web;&#xa; - Gluonsoft;&#xa; - Atualizações constantes;&#xa; - Suporte online e chat;" id="234">
-      <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
-        <mxGeometry x="-1002" y="-1754.5" width="120" height="40" as="geometry"/>
-      </mxCell>
-    </UserObject>
-    <UserObject label="O que é o CronApp" tooltip="*O que é o CronApp*&#xa;- Histórico;&#xa;- Techne;&#xa;" id="235">
+    <UserObject label="O que é o CronApp&lt;br&gt;(VG)&lt;br&gt;" tooltip="*O que é o CronApp*&#xa;- Histórico;&#xa;- Techne;&#xa;" id="235">
       <mxCell style="shape=ext;rounded=1;html=1;whiteSpace=wrap;gradientColor=none;fillColor=#FFFFFF;horizontal=1;arcSize=31;labelBackgroundColor=none;labelBorderColor=none;fontColor=#0F0F0F;" parent="168" vertex="1">
         <mxGeometry x="-992" y="-1439.5" width="120" height="40" as="geometry"/>
       </mxCell>
