@@ -1,11 +1,11 @@
-<mxGraphModel dx="2650" dy="2765" grid="0" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
+<mxGraphModel dx="2685" dy="2954" grid="0" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1569" background="#161616">
   <root>
     <mxCell id="0"/>
     <mxCell id="103" value="Fundo" style="locked=1;" parent="0"/>
     <mxCell id="116" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="103" vertex="1">
       <mxGeometry x="-446" y="-1647" width="217" height="147" as="geometry"/>
     </mxCell>
-    <mxCell id="117" value="&lt;h1&gt;Atenção&lt;/h1&gt;&lt;p&gt;Alguns blocos possuem tooltips exibindo de forma mais detalha o seu conteúdo.&lt;/p&gt;&lt;p&gt;Para alterar o tooltip, selecione o bloco e aperte &lt;b&gt;Ctrl + Alt + T&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="103" vertex="1">
+    <mxCell id="117" value="&lt;h1&gt;Atenção&lt;/h1&gt;&lt;p&gt;Alguns blocos possuem tooltips exibindo de forma mais detalha o seu conteúdo.&lt;/p&gt;&lt;p&gt;Para alterar o tooltip, selecione o bloco e aperte &lt;b&gt;Sift + Alt + T&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="103" vertex="1">
       <mxGeometry x="-432" y="-1645" width="193" height="138" as="geometry"/>
     </mxCell>
     <mxCell id="1" value="siteMap" style="" parent="0"/>
